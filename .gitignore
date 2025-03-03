@@ -1,0 +1,7 @@
+.env
+.idea
+.github
+.code
+*-2025.*
+frontend/dist
+main.db
